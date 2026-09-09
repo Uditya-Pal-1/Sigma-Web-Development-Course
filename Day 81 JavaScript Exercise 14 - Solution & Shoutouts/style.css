@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family: "Roboto Mono", monospace;;
+}
+body{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+}
