@@ -1,28 +1,3 @@
-# Sigma Web Development Course 🚀
-
-Welcome to my progress repository for the **Sigma Web Development Course**. This workspace documents my daily learning journey, coding exercises, and web development projects as I build out my technical skills.
-
-## 🛠️ Tech Stack & Concepts Covered
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
-* **Core Concepts:** DOM Manipulation, Async/Await, Promises, Callbacks, Object-Oriented Programming (OOP), Error Handling
-* **Tools:** Git, GitHub, VS Code
-
-## 📂 Featured Projects & Exercises
-Here are a few highlights from the curriculum included in this repository:
-* **Netflix Clone (Day 53):** A responsive UI clone of the Netflix web interface using pure HTML and CSS.
-* **Dynamic Website Builder (Day 73):** JavaScript DOM manipulation to dynamically generate website elements.
-* **Hacker's Terminal (Day 78):** A JS-powered mock terminal interface demonstrating asynchronous functions.
-* **Color the Boxes (Day 70):** Scripting exercises focusing on DOM traversal and dynamic styling.
-
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Uditya-Pal-1/Sigma-Web-Development-Course.git](https://github.com/Uditya-Pal-1/Sigma-Web-Development-Course.git)
-
-## Diagram
-
-<img width="1648" height="888" alt="Repo Diagram till Week-17" src="./Assets/RepoDiagram.png" />
-<hr>
 <div align="center">
   <!-- Dynamic Gradient Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sigma%20Web%20Development&fontSize=60&fontAlignY=35&desc=Mastering%20Modern%20Web%20Technologies&descAlignY=55&descSize=20" alt="Header Banner" />
@@ -119,9 +94,17 @@ This repository serves as a comprehensive, day-by-day architectural log of the *
 
 ## ⚙️ Local Development Environment
 
+```bash
+# 1. Clone the repository to your local machine
+git clone [https://github.com/Uditya-Pal-1/Sigma-Web-Development-Course.git](https://github.com/Uditya-Pal-1/Sigma-Web-Development-Course.git)
 
+# 2. Navigate into the directory
 cd Sigma-Web-Development-Course
 
 # 3. Launch via IDE (requires VS Code)
 code .
+## Diagram
+
+<img width="1648" height="888" alt="Repo Diagram till Week-17" src="./Assets/RepoDiagram.png" />
+<hr>
 <img width="1648" alt="Repo Diagram till Week-17" src="./Assets/RepoLatestDiagram.png" />
