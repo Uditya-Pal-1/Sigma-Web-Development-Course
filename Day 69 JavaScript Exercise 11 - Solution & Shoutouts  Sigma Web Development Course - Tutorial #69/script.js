@@ -4,7 +4,6 @@ function factorial(number){
 let c = arr.slice(1,).reduce((a,b)=> a*b )
 console.log(c)
 }
-
 function facFor (number){
     let fac = 1;
 for (let index = 1; index <= number; index++) {
